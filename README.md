@@ -1,4 +1,4 @@
-# Olá, bem vindos ao meu perfil! 
+# Olá, bem vindo ao meu perfil! 
 
 <div>
   
@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
    </div>
+   
    
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
